@@ -1,2 +1,4 @@
-include ':app'
+include ':library'
+include ':app',
+        ':library'
 rootProject.name = "CardSlidePanelTest"
