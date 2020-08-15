@@ -17,7 +17,6 @@ import com.facebook.rebound.SpringSystem;
 /**
  * 卡片View项
  *
- * @author xmuSistone
  */
 @SuppressLint("NewApi")
 public class CardItemView extends FrameLayout {

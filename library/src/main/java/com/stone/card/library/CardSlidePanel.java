@@ -26,7 +26,6 @@ import java.util.List;
 /**
  * 卡片滑动面板，主要逻辑实现类
  *
- * @author xmuSistone
  */
 @SuppressLint({"HandlerLeak", "NewApi", "ClickableViewAccessibility"})
 public class CardSlidePanel extends ViewGroup {
